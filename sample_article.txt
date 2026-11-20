@@ -1,0 +1,5 @@
+Artificial intelligence is transforming the way people work and learn. Modern language models can read, write, and reason about text, which allows them to assist with tasks such as drafting emails, summarizing reports, and answering questions. Companies are adopting these tools to save time and reduce repetitive work, while students use them to understand difficult topics faster.
+
+However, experts warn that AI systems can make mistakes and should not be trusted blindly. Outputs need to be checked, especially in areas like healthcare, law, and finance. There are also concerns about data privacy, because sensitive information shared with online tools may be stored or misused.
+
+Despite these risks, interest in AI skills is growing rapidly. Beginners can start by learning Python, experimenting with public APIs, and building small projects such as summarizers or chatbots. Hands-on practice is widely considered the best way to build real understanding and a strong portfolio.
